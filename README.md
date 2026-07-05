@@ -128,7 +128,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito"/>
+<img src="![LeetCode Stats](https://leetcard.jacoblin.cool/suren45?theme=dark&font=Marvel&ext=contest)"/>
 
 </p>
 
@@ -138,11 +138,11 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/suren1129">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/M S SURENDHAR">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -176,7 +176,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suren1129&bg_color=293036&color=00ff6e&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
 
 </p>
 
@@ -186,7 +186,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/suren1129/suren1129/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
