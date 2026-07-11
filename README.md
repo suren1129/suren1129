@@ -67,15 +67,7 @@ public class Surendhar {
  
 <br>
 ## 📌 Featured Projects
- 
-<p align="center">
-<a href="https://github.com/suren1129/portfoliio"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=portfoliio&theme=tokyonight"/></a>
-<a href="https://github.com/suren1129/Quiz-Platform"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=Quiz-Platform&theme=tokyonight"/></a>
-<a href="https://github.com/suren1129/weatherapp"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=weatherapp&theme=tokyonight"/></a>
-<a href="https://github.com/suren1129/solar-system"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=solar-system&theme=tokyonight"/></a>
-<a href="https://github.com/suren1129/Generate-Password"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=Generate-Password&theme=tokyonight"/></a>
-<a href="https://github.com/suren1129/To-Do-List"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=To-Do-List&theme=tokyonight"/></a>
-</p>
+
 - ⭐ [Portfolio Website](https://github.com/suren1129/portfoliio)
 - ⭐ [Quiz Platform](https://github.com/suren1129/Quiz-Platform)
 - ⭐ [Weather App](https://github.com/suren1129/weatherapp)
