@@ -139,7 +139,7 @@ public class Surendhar {
  
 <p align="center">
 <a href="https://github.com/suren1129" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/m-s-surendhar-93b387307" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://instagram.com/suren__29" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="mailto:minnalsurendhar29@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
