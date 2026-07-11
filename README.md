@@ -69,34 +69,24 @@ public class Surendhar {
 ## 📌 Featured Projects
  
 <p align="center">
-<a href="https://github.com/suren1129"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=YOUR_REPO_1&theme=tokyonight"/></a>
-<a href="https://github.com/suren1129"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=YOUR_REPO_2&theme=tokyonight"/></a>
+<a href="https://github.com/suren1129/portfoliio"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=portfoliio&theme=tokyonight"/></a>
+<a href="https://github.com/suren1129/Quiz-Platform"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=Quiz-Platform&theme=tokyonight"/></a>
+<a href="https://github.com/suren1129/weatherapp"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=weatherapp&theme=tokyonight"/></a>
+<a href="https://github.com/suren1129/solar-system"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=solar-system&theme=tokyonight"/></a>
+<a href="https://github.com/suren1129/Generate-Password"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=Generate-Password&theme=tokyonight"/></a>
+<a href="https://github.com/suren1129/To-Do-List"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=suren1129&repo=To-Do-List&theme=tokyonight"/></a>
 </p>
-- ⭐ AI Portfolio Website
-- ⭐ Quiz Management System
-- ⭐ Java Programs Collection
-- ⭐ PHP + MySQL Projects
-- ⭐ AI Code Correction Tool
-> 💡 Replace `YOUR_REPO_1` / `YOUR_REPO_2` above with your actual repo names to show live pin cards.
- 
-<br>
-## 🏆 GitHub Trophies
- 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suren1129&theme=algolia&margin-w=15&no-frame=true"/>
-</p>
-<br>
-## 📊 GitHub Stats
- 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suren1129&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suren1129&layout=compact&theme=tokyonight"/>
-</p>
+- ⭐ [Portfolio Website](https://github.com/suren1129/portfoliio)
+- ⭐ [Quiz Platform](https://github.com/suren1129/Quiz-Platform)
+- ⭐ [Weather App](https://github.com/suren1129/weatherapp)
+- ⭐ [Solar System (JS/CSS)](https://github.com/suren1129/solar-system)
+- ⭐ [Password Generator](https://github.com/suren1129/Generate-Password)
+- ⭐ [To-Do List App](https://github.com/suren1129/To-Do-List)
 <br>
 ## 🔥 GitHub Streak
  
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=suren1129&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=suren1129&theme=tokyonight&hide_border=true"/>
 </p>
 <br>
 ## 📈 GitHub Activity Graph
@@ -105,11 +95,53 @@ public class Surendhar {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suren1129&bg_color=293036&color=00ff6e&line=9ecbff&point=f97583&area=true&hide_border=true"/>
 </p>
 <br>
-## 🐍 Contribution Snake
+## 🧠 Skill Proficiency
+ 
+<p align="left">
+`Java` &nbsp;
+![](https://progress-bar.dev/80?title=&width=200&color=0e75b6)
+ 
+`HTML / CSS` &nbsp;
+![](https://progress-bar.dev/85?title=&width=200&color=e34c26)
+ 
+`JavaScript` &nbsp;
+![](https://progress-bar.dev/65?title=&width=200&color=f0db4f)
+ 
+`PHP` &nbsp;
+![](https://progress-bar.dev/60?title=&width=200&color=777bb4)
+ 
+`MySQL` &nbsp;
+![](https://progress-bar.dev/70?title=&width=200&color=00758f)
+ 
+`Linux` &nbsp;
+![](https://progress-bar.dev/55?title=&width=200&color=fcc624)
+ 
+</p>
+<br>
+## 💬 Random Dev Quote
  
 <p align="center">
-<img src="https://raw.githubusercontent.com/suren1129/suren1129/output/github-contribution-grid-snake.svg"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+<br>
+## 📬 Let's Collaborate
+ 
+<div align="center">
+<table>
+<tr>
+<td align="center">💡</td>
+<td>Open to <b>internships</b> &amp; <b>freelance Java / full-stack projects</b></td>
+</tr>
+<tr>
+<td align="center">🤝</td>
+<td>Always up for pairing on <b>open-source</b> or student dev communities</td>
+</tr>
+<tr>
+<td align="center">📩</td>
+<td>Fastest way to reach me — <a href="mailto:minnalsurendhar29@gmail.com">email</a></td>
+</tr>
+</table>
+</div>
 <br>
 ## 🌐 Connect With Me
  
